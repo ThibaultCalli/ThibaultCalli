@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ThibaultCalli
-- 👀 I’m interested in becoming a developper - just started
+- 👀 I’m interested in becoming a full stack developper - just started
 - 🌱 Currently learning JS, PHP, HTML, CSS
-- 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: via github
 
 <!---
